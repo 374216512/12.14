@@ -1,0 +1,51 @@
+<annotation><size><width>1440</width><height>1080</height></size>
+            <object>
+                <name>goods</name>
+                <bndbox>
+                    <xmin>227</xmin>
+                    <ymin>288</ymin>
+                    <xmax>462</xmax>
+                    <ymax>514</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>goods</name>
+                <bndbox>
+                    <xmin>276</xmin>
+                    <ymin>530</ymin>
+                    <xmax>547</xmax>
+                    <ymax>795</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>goods</name>
+                <bndbox>
+                    <xmin>590</xmin>
+                    <ymin>328</ymin>
+                    <xmax>822</xmax>
+                    <ymax>564</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>goods</name>
+                <bndbox>
+                    <xmin>830</xmin>
+                    <ymin>210</ymin>
+                    <xmax>1043</xmax>
+                    <ymax>424</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>goods</name>
+                <bndbox>
+                    <xmin>817</xmin>
+                    <ymin>662</ymin>
+                    <xmax>1071</xmax>
+                    <ymax>926</ymax>
+                </bndbox>
+            </object>
+            </annotation>
